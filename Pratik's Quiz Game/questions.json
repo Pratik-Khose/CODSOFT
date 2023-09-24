@@ -1,0 +1,42 @@
+{
+    "ques": [
+        "Q1. What is AWS Fullform??",
+        "Q2. What are the advantages of Auto Scaling?",
+        "Q3. EC2 stands for?",
+        "Q4. AWS falls into which of the following cloud-computing categories?",
+        "Q5. How many buckets can you create in AWS by default?"
+    ],
+    "ans": [2, 4, 1, 4, 3],
+    "choices": [
+        [
+            "Amazon Web Security",
+            "Amazon Web Services",
+            "Amazon Web Software",
+            "Amazon Web System"
+        ],
+        [
+            "Fault Tolerance",
+            "Better Availability",
+            "Better Cost Management",
+            "All of the Above"
+        ],
+        [
+            "Elastic Compute Cloud",
+            "Elastic Cloud Compute",
+            "Elastic Configuration Cloud",
+            "Elastic Cloud Configuration"
+        ],
+        [
+            "Software as a Service",
+            "Backend as a Service",
+            "Platform as a Service",
+            "Infrastructure as a Service"
+        ],
+        [
+            "25 buckets",
+            "50 buckets",
+            "100 buckets",
+            "200 buckets"
+        ]
+    ]
+}
